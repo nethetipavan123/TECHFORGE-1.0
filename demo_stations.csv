@@ -1,0 +1,6 @@
+station_name,connector,power_kw,distance_km,tariff_inr_per_kwh,available_connectors,estimated_wait_minutes,data_status
+Vizianagaram EV Hub - Demo,CCS2,60,1.2,8.50,3,6,illustrative
+Visakhapatnam Fast Charge - Demo,CCS2,120,2.4,10.00,2,9,illustrative
+Bhogapuram EV Point - Demo,Type 2,22,3.1,7.75,1,13,illustrative
+Srikakulam Charging Point - Demo,CCS2,50,1.8,9.25,0,21,illustrative
+Anakapalle Solar EV Plaza - Demo,CCS2,80,4.2,8.10,2,8,illustrative
